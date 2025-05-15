@@ -3,3 +3,8 @@ scikit-learn
 joblib
 fastapi
 uvicorn
+datasets
+transformers
+matplotlib
+numpy
+scipy
