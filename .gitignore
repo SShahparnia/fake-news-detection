@@ -1,0 +1,6 @@
+# virtualenv
+venv/
+__pycache__/
+*.py[cod]
+*.joblib
+.env
