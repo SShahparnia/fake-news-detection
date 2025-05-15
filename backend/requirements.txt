@@ -8,3 +8,6 @@ transformers
 matplotlib
 numpy
 scipy
+pydantic
+nltk
+jinja2
